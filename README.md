@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **abdulmuhsinml0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AnDiW2VHuhsEsN8shZzPrcIbJBfZhWO5/view?usp=drivesdk](https://drive.google.com/file/d/1AnDiW2VHuhsEsN8shZzPrcIbJBfZhWO5/view?usp=drivesdk)
+- 📄 Resume [https://drive.google.com/file/d/1AnDiW2VHuhsEsN8shZzPrcIbJBfZhWO5/view?usp=drivesdk](https://drive.google.com/file/d/1AnDiW2VHuhsEsN8shZzPrcIbJBfZhWO5/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
