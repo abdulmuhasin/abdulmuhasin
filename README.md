@@ -4,7 +4,7 @@ A good hardworking qualified bachelor in computer application and certified data
 Proficiency in Python programming with a strong grasp of core concepts. 
 Knowledge in data visualization tools Power BI. Data cleaning and analysis and experience in regression, classification,EDA, NLP throughout the project. 
 Ability to critical thinking problem solving and good communication skills.<br>
-- 📫 How to reach me abdulmuhsinml0@gmail.com
+- 📫 How to reach me  abdulmuhsinml0@gmail.com
 
 - 📄 Resume [https://drive.google.com/file/d/1AnDiW2VHuhsEsN8shZzPrcIbJBfZhWO5/view?usp=drivesdk](https://drive.google.com/file/d/1AnDiW2VHuhsEsN8shZzPrcIbJBfZhWO5/view?usp=drivesdk)
 
