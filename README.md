@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Muhasin</h1>
 <h3 align="center">Data Analyst</h3>
-A good hardworking qualified bachelor in computer application and certified data science with great knowledge in python, SQL, Machine learning and experience in python, SQL abd Visualization tools throughout the project. 
+A good hardworking qualified bachelor in computer application and certified data science with great knowledge in python, SQL, Machine learning and experience in python, SQL and Visualization tools throughout the project. 
 Proficiency in Python programming with a strong grasp of core concepts. 
 Knowledge in data visualization tools Power BI. Data cleaning and analysis and experience in regression, classification,EDA, NLP throughout the project. 
 Ability to critical thinking problem solving and good communication skills.<br>
