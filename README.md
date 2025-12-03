@@ -6,7 +6,7 @@ Proficiency in Python programming with a strong grasp of core concepts.
 Knowledge in data visualization tools Power BI. Data cleaning and analysis and experience in regression, classification,EDA, NLP throughout the project. 
 Ability to critical thinking problem solving and good communication skills.<br>
 - 📫 How to reach me abdulmuhsinml0@gmail.com <br>
-- 📄 find my <a href="https://drive.google.com/file/d/1AnDiW2VHuhsEsN8shZzPrcIbJBfZhWO5/view?usp=drivesdk">resume here 😊</a>
+- 📄 find my <a href="https://drive.google.com/file/d/1Vl-E1Z7Sl_9kDRr65y0B6Hc2IZoXPPkC/view?usp=drivesdk">resume here 😊</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
